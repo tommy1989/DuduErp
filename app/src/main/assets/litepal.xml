@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="DuduBook"/>
+    <version value="1"/>
+    <list>
+        <mapping class="android.dudu.com.duduerp.db.User"/>
+        <mapping class="android.dudu.com.duduerp.db.Goods"/>
+        <mapping class="android.dudu.com.duduerp.db.Spec"/>
+        <mapping class="android.dudu.com.duduerp.db.category"/>
+    </list>
+</litepal>
